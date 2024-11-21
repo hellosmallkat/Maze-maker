@@ -1,5 +1,7 @@
 ## Maze marker 
 Hi, This code is a maze maker code that creates a number output which then could be input into the code found in the conversion file
+
+
 You would input 
 <seed>  the seed value for the random number generator
 <N>     number of rows in the grid N > 0
